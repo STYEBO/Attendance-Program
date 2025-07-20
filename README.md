@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![SQLite](https://img.shields.io/badge/SQLite-Database-green)
+![Console-Based](https://img.shields.io/badge/Interface-Console%20Based-yellow)
+
 📌 Features
 🔐 Secure Admin Panel
 Login System with SHA-256 password hashing.
