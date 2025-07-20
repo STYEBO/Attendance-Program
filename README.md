@@ -57,7 +57,7 @@ Push to branch (git push origin feature/new-feature).
 Open a Pull Request.
 
 📧 Contact
-For questions/suggestions, email: your.email@example.com
+For questions/suggestions, email: moa901476@gmail.com
 
 🌟 Why Use This?
 ✔ No Installation Hassle – Just run the Python scripts.
